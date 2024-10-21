@@ -1,0 +1,10 @@
+<script src="./../assets/js/jQuery.min.js"></script>
+	<script src="./../assets/js/popper.min.js"></script>
+	<script src="./../assets/js/bootstrap.bundle.min.js"></script>
+	<script src="./../assets/js/bootstrap.min.js"></script>
+	<script src="./../assets/js/slick.min.js"></script>
+	<script src="./../node_modules/jarallax/dist/jarallax.min.js"></script>
+	<script src="./../ionicons@5.0.0/dist/ionicons.js"></script>
+	<script src="./../node_modules/animsition/dist/js/animsition.min.js"></script>
+	<script src="./../assets/js/main.js"></script>
+	<script src="./../assets/js/jquery.hover3d.min.js"></script>
